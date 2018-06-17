@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Actions\ActionsController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Physics\Controller2D.cs" Line="44" Column="28" />
+      <File FileName="..\Projets Unity\Quad\Assets\MyAssets\Scripts\Sherlock\Player.cs" Line="71" Column="24" />
+      <File FileName="..\Projets Unity\Quad\Assets\MyAssets\Scripts\Sherlock\PlayerInput.cs" Line="84" Column="4" />
+      <File FileName="Assets\Scripts\Physics\Objet.cs" Line="35" Column="15" />
+      <File FileName="Assets\Scripts\Actions\Collect.cs" Line="28" Column="4" />
+      <File FileName="Assets\Scripts\Actions\MovementActions.cs" Line="116" Column="2" />
+      <File FileName="Assets\Scripts\Actions\SimpleActions.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\Camera\CameraFollow.cs" Line="23" Column="16" />
+      <File FileName="Assets\Scripts\Actions\ActionsController.cs" Line="40" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Alone - Path to Exile" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
